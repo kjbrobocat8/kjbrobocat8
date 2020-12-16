@@ -3,7 +3,11 @@ I like to code.
 ## Lightning Video Chat
 ========================
 ## v2.0
-Introducing Lightning video Chat v2.0
+Introducing Lightning video Chat v2.0, with Screen sharing capabilities, 5+participants, and more!
+
+## New and improved ChatIt
+ChatIt v2.0 is in development!
+
 ## agaudana
 @agaudana is someone who I like to code with.
 
