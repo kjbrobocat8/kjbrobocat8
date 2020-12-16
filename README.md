@@ -1,7 +1,8 @@
 ### Hi
 I like to code.
 ## Lightning Video Chat
-========================
+![Lightning video chat](https://kjbrobocat8.github.io/Lightning-videoChat) is a video chat app made by me using Scaledrone and WebRTC.
+If you are using Firefox, join through Firefox first then other browsers.
 ## v2.0
 Introducing Lightning video Chat v2.0, with Screen sharing capabilities, 5+participants, and more!
 
